@@ -1,7 +1,7 @@
 # LZW-Compression
 IMPLEMENTATION OF LZW COMPRESSION ALGORITHM
 LZW algorithm works for compressing and decompressing the data in a lossless manner, this algorithm works at its 
-best when there is some redundancy in data.In this project we are implementing the algorithm with some practical 
+best when there is some redundancy in data.In this project the algorithm is implemented with some practical 
 usecases of encoding and decoding the strings that have redundancy.
 
 MINIMUM REQUIREMENTS TO RUN ENCODER/DECODER:
